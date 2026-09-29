@@ -7,7 +7,7 @@
   "scripts": {
     "test": "node --test src/**/*.test.js"
   },
-  "keywords": ["nutrition", "ocr", "tracker", "meal-planner"],
-  "author": "NutriScan Contributors",
+  "keywords": [],
+  "author": "",
   "license": "MIT"
 }
