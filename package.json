@@ -2,12 +2,11 @@
   "name": "nutri-scan",
   "version": "1.0.0",
   "description": "Free, open-source nutrition tracker with OCR for food labels",
-  "main": "src/index.js",
   "type": "module",
+  "main": "src/index.js",
   "scripts": {
     "test": "node --test src/**/*.test.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nutrition", "ocr", "tracker"],
   "license": "MIT"
 }
